@@ -10,24 +10,27 @@
     <div class="col mb-3">
       <h5>Contact</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0">Home</a></li>
-       
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0">+33 12 34 56</a></li>
+       <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">mmi.castres@iut-tlse3.fr</a></li>
+		  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">I.U.T,AV.Georges Pompidou,81100 Castres</a></li>
       </ul>
     </div>
 
     <div class="col mb-3">
       <h5>Les parcours</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">Home</a></li>
-      
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">Développement web et dispositifs interactifs</a></li>
+      <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">Créations numériques</a></li>
+		  <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-white">Stratégies de communication</a></li>
       </ul>
     </div>
 
     <div class="col mb-3">
       <h5>Ressources</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Home</a></li>
-        
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Blog</a></li>
+         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Conditions générales d'utilisation</a></li>
+		       <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-body-secondary">Support</a></li>
       </ul>
     </div>
   </footer>
